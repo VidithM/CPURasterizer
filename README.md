@@ -2,7 +2,7 @@
 ## Features
 * Can load variety of .obj files (found in /resources)
 * Texture mapping and coloring (switch between modes using 't')
-* Anti-aliasing (using nearest neighbor, bilinear interpolation, and mipmapping methods)
+* Anti-aliasing (using nearest neighbor, bilinear interpolation, and mipmapping methods). Switch between texturing modes using 'n', 'l', and 'm' (when in textured mode)
 
 ## How to build
 * CMake is used to build the project. Install [here](https://cmake.org/).
